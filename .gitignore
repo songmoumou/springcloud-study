@@ -28,3 +28,4 @@ target
 /.mvn/wrapper/maven-wrapper.jar
 /.mvn/wrapper/maven-wrapper.properties
 .mvn
+/.idea/inspectionProfiles/Project_Default.xml
